@@ -1,6 +1,6 @@
-public class test {
+public class Test {
 
-    int y = 5;a
+    int y = 5;
 
     @Override
     public String toString() {
